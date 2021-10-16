@@ -1,6 +1,6 @@
 # Tech-term
 
-### 업무를 위한 개인 공부용 기술 용어 정리를 위한 Repository 입니다.
+### 개인 공부용 업무 및 기술 용어 정리를 위한 개인 저장소
 
 ### 📘Contents
 - [Business](#Business)
