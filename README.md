@@ -5,6 +5,7 @@
 ### 📘Contents
 - [Business](#Business)
 - [Java](#Java)
+- [Git](#Git)
 
 
 ---
@@ -22,3 +23,7 @@
 - JDBC
 - Thread 
 - Process
+
+## [Git](/contents/git.md)
+- stash 
+- fetch,full,clone 차이
