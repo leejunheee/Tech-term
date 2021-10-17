@@ -16,6 +16,9 @@
 - POC 
 - BMT
 - WBS
+- 포팅
+- 스냅샷
+
 
 ## [Java](/contents/java.md)
 - Java
