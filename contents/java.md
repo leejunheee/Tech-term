@@ -2,6 +2,9 @@
 
 - [Java](#Java)
 - Overloading vs Overriding
+- [JDBC](#JDBC)
+- [Thread](#Thread)
+- [Process](#Process)
 
 ---
 
