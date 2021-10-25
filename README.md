@@ -30,4 +30,4 @@
 
 ## [Git](/contents/git.md)
 - stash 
-- fetch,full,clone 차이
+- fetch,full,clone 차이.
