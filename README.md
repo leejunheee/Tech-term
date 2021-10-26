@@ -19,6 +19,7 @@
 - 포팅
 - 스냅샷
 - FTP
+- 데드락
 
 
 ## [Java](/contents/java.md)
