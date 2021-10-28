@@ -1,7 +1,7 @@
 # Java
 
 - [Java](#Java)
-- Overloading vs Overriding
+- Overloading/Overriding
 - [JDBC](#JDBC)
 - [Thread](#Thread)
 - [Process](#Process)
@@ -16,7 +16,7 @@
   4. GC(Garbage Collector)를 통한 메모리 관리 
   5. 멀티쓰레드 지원
 
-- Overloading vs Overriding
+- Overloading/Overriding
   - Overloading(오버로딩)
     - 같은 이름의 메소드를 여러개 정의하는 것 
     - 매개변수의 타입이 다르거나 갯수가 달라야한다.
