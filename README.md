@@ -22,6 +22,7 @@
 - 스냅샷
 - FTP
 - 데드락
+- AD
 
 
 ## [Java](/contents/java.md)
@@ -47,5 +48,4 @@
 ## [Network](/contents/network.md)
 - NAC 
 - 포트 
-- AD
 
