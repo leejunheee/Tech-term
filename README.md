@@ -53,4 +53,5 @@
 - 포트 
 - SSH
 - TCP/IP
+- TCP/IP 4계층 
 
