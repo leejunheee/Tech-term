@@ -39,6 +39,7 @@
 - 인터페이스
 - WAR
 - JAR
+- 제네릭
 
 
 ## [Git](/contents/git.md)
