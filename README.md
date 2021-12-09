@@ -45,6 +45,7 @@
 ## [Git](/contents/git.md)
 - stash 
 - fetch,full,clone 차이.
+- reset , revert 차이 
 
 
 ## [Spring](/contents/spring.md)
