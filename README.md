@@ -47,6 +47,7 @@
 - fetch,full,clone 차이.
 - reset , revert 차이 
 - 브랜치 
+- remote / origin
 
 ## [Spring](/contents/spring.md)
 - 스프링 프레임워크란 
