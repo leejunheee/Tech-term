@@ -48,6 +48,7 @@
 - reset , revert 차이 
 - 브랜치 
 - remote / origin
+- amend
 
 ## [Spring](/contents/spring.md)
 - 스프링 프레임워크란 
