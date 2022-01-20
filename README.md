@@ -28,6 +28,8 @@
 - 빌드
 - API
 - RDP 
+- AS-IS/TO-BE
+- 웹서버/WAS
 
 
 
