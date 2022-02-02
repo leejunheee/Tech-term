@@ -30,6 +30,8 @@
 - RDP 
 - AS-IS/TO-BE
 - 웹서버/WAS
+- 맨먼스
+
 
 
 
