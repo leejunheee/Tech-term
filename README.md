@@ -73,6 +73,8 @@
 - TCP/IP
 - TCP/IP 4계층 
 - SSL
+- 프록시
+
 
 
 
